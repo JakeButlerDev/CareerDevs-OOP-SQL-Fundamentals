@@ -1,0 +1,12 @@
+[submodule "Polymorph-In-Java"]
+	path = Polymorph-In-Java
+	url = https://github.com/TioDelMundo/Polymorph-In-Java.git
+[submodule "Inheritance-In-Java"]
+	path = Inheritance-In-Java
+	url = https://github.com/TioDelMundo/Inheritance-In-Java.git
+[submodule "AbstractClasses-In-Java"]
+	path = AbstractClasses-In-Java
+	url = https://github.com/TioDelMundo/AbstractClasses-In-Java.git
+[submodule "Encapsulation-In-Java"]
+	path = Encapsulation-In-Java
+	url = https://github.com/TioDelMundo/Encapsulation-In-Java.git
