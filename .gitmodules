@@ -10,3 +10,6 @@
 [submodule "Encapsulation-In-Java"]
 	path = Encapsulation-In-Java
 	url = https://github.com/TioDelMundo/Encapsulation-In-Java.git
+[submodule "Classes-In-Java"]
+	path = Classes-In-Java
+	url = https://github.com/TioDelMundo/Classes-In-Java.git
